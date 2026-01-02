@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Jagdale</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Enthusiast;LLMs+%7C+Agentic+AI+%7C+RAG;Full+Stack+Developer+%26+Learner&center=true&width=550&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning;LLMs+%7C+Agentic+AI+%7C+RAG;Full+Stack+Developer+%26+Learner&center=true&width=550&height=45">
 </p>
 
 ---
