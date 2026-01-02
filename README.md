@@ -13,7 +13,9 @@
 - 🧠 Exploring **Agentic AI systems and intelligent automation**
 - 🌐 Full Stack Developer with focus on AI-backed applications
 - 📘 Believe in strong fundamentals, experimentation, and consistency
+<p>
 Full Stack Engineer with hands-on experience building end-to-end systems using modern web technologies, cloud platforms, and AI-enabled components. Trained in backend development, frontend architecture, DevOps fundamentals, and secure deployments, with a strong focus on clean code, system design, and scalability. Experienced in integrating LLMs, RAG pipelines, and intelligent services into production-ready applications.
+</p>
 ---
 
 ### 🛠️ Languages, Frameworks & Tools
