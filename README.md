@@ -14,6 +14,7 @@
 - 🌐 Full Stack Developer with focus on AI-backed applications
 - 📘 Believe in strong fundamentals, experimentation, and consistency
 
+Full Stack Engineer with hands-on experience building end-to-end systems using modern web technologies, cloud platforms, and AI-enabled components. Trained in backend development, frontend architecture, DevOps fundamentals, and secure deployments, with a strong focus on clean code, system design, and scalability. Experienced in integrating LLMs, RAG pipelines, and intelligent services into production-ready applications.
 ---
 
 ### 🛠️ Languages, Frameworks & Tools
@@ -44,11 +45,10 @@
 
 ### 📚 Areas of Focus
 
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI & Multi-Agent Systems
-- Natural Language Processing
-- Computer Vision
+- Full Stack Development 
+- LLMs , RAG , Agentic AI & Multi-Agent Systems
+- ML , Natural Language Processing
+- Optical Character Recognition
 - Information Retrieval
 - AI System Design & Deployment
 - Cloud-based AI APIs (Vertex AI)
@@ -57,8 +57,9 @@
 
 ### 🌐 Connect With Me
 
+📧 **Email:** saijagdale1406@gmail.com  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sai-jagdale)
 
 ---
 
