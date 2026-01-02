@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Jagdale</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Enthusiast;Full+Stack+Developer;Lifelong+Learner+%26+Problem+Solver&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.demolab.com/?lines=AI+%26+Machine+Learning+Enthusiast;LLMs+%7C+Agentic+AI+%7C+RAG;Full+Stack+Developer+%26+Learner&center=true&width=550&height=45">
 </p>
 
 ---
@@ -9,37 +9,46 @@
 ### 👨‍💻 About Me
 
 - 🎓 Student at **MIT ADT University, Pune**
-- 🤖 Strong interest in **Artificial Intelligence & Machine Learning**
-- 🌐 Full Stack Developer with interest in scalable systems
-- 🧠 Curious learner who enjoys understanding how things work
-- 📘 Believe in learning by building and experimenting
-
-> *"I may not know everything, but I will figure it out."*
+- 🤖 Deep interest in **FullStack Development, AI, Machine Learning & Large Language Models**
+- 🧠 Exploring **Agentic AI systems and intelligent automation**
+- 🌐 Full Stack Developer with focus on AI-backed applications
+- 📘 Believe in strong fundamentals, experimentation, and consistency
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages, Frameworks & Tools
 
+#### Programming & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+#### AI / ML / LLM Stack
+![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=flat)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-orange?style=flat)
+
+#### Cloud & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
+
+#### Frontend & Tools
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
-### 📚 Areas of Interest
+### 📚 Areas of Focus
 
-- Machine Learning & Deep Learning
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI & Multi-Agent Systems
 - Natural Language Processing
 - Computer Vision
 - Information Retrieval
-- Cloud-based Application Development
-- AI Agents & Automation Systems
+- AI System Design & Deployment
+- Cloud-based AI APIs (Vertex AI)
 
 ---
 
@@ -50,12 +59,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=sai-jagdale&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sai-jagdale&layout=compact&theme=radical)
-
----
-
-⭐ *Consistent learning, disciplined practice, and curiosity drive growth.*
+⭐ *Learning deeply, building thoughtfully, and growing consistently.*
