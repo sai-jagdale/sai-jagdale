@@ -59,7 +59,7 @@ Full Stack Engineer with hands-on experience building end-to-end systems using m
 
 ### 🌐 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-saijagdale1406%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-saijagdale1406%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:saijagdale1406@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 ---
