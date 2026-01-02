@@ -28,18 +28,12 @@ Full Stack Engineer with hands-on experience building end-to-end systems using m
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
-
-#### AI / ML / LLM Stack
 ![LLMs](https://img.shields.io/badge/LLMs-4B0082?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-blue?style=flat)
 ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Autonomous%20Systems-orange?style=flat)
-
-#### Cloud & Platforms
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Vertex AI](https://img.shields.io/badge/Vertex%20AI-4285F4?style=flat&logo=googlecloud&logoColor=white)
-
-#### Frontend & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
