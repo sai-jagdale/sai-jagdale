@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sai Jagdale</h1>
 
----
-
 ### 👨‍💻 About Me
 
 - 🎓 Student at **MIT ADT University, Pune**
